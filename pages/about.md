@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: Who in the world am I #optional sub title to the post
 permalink: /about/
-header_feature_image:  /images/Fall.jpg #replace this for yours
+header_feature_image:  /images/Fall.jpeg #replace this for yours
 tags:
 published: true
 description:
