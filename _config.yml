@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://carolinebradley.github.io"   #change this to yours
-title: Caroline Bradley's House # site's title
+title: Caroline Bradley's Cottage # site's title
 description: "The lifestyle of hosting" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
