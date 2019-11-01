@@ -9,10 +9,6 @@ published: true
 description:
 ---
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+Welcome to my little house, here you will find everything you need to host any king of event: from halloween to a movie night with your besties. Cheers!
 
 You should use **markdown**to write this text and this will automatically be converted to `HTML`.
