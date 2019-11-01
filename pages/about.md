@@ -9,4 +9,4 @@ published: true
 description:
 ---
 
-Welcome to my little house, here you will find everything you need to host any king of event: from halloween to a movie night with your besties. Cheers!
+Welcome to my little house, here you will find everything you need to host any kind of event: from halloween to a movie night with your besties. Cheers!
