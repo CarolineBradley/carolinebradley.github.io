@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-subtitle: Who in the world am I #optional sub title to the post
-permalink: /about/
+subtitle: All about me and my life #optional sub title to the post
+permalink: /gallery/
 header_feature_image:  /images/log.jpg #replace this for yours
 tags:
 published: true
