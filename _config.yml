@@ -20,11 +20,11 @@ header_text: Caroline Bradley
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: /images/Choc.jpg
-twitter_username: puboxford  #change to your own twitter account
+twitter_username: GuilletCaroline  #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2019 Caroline Bradley"
+    "Copyright 2020 Caroline Bradley"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
